@@ -1,0 +1,30 @@
+{
+    "token": "",
+    "mongoDBURL": "",
+    "prefix": "//",
+    "owner": {
+        "id": "",
+        "username": ""
+    },
+    "adminsIDs": ["", ""],
+    "supportServerID": "",
+    "emotes": {
+        "success": "",
+        "error": "",
+        "loading": ""
+    },
+    "webhooks": {
+        "readyLogs": {
+            "ID": "",
+            "token": ""
+        },
+        "commandLogs": {
+            "ID": "",
+            "token": ""
+        },
+        "guildLogs": {
+            "ID": "",
+            "token": ""
+        }
+    }
+}

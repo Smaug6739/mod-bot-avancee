@@ -1,0 +1,24 @@
+{
+    "apps": [
+    {
+        "name": "Delta",
+        "script": "./index.js",
+        "watch": true,
+        "args": ["--colors"],
+        "env": {
+            "NODE_ENV": "production",
+            "DEBUG_COLORS": true
+        }
+    },
+    {
+        "name": "Alpha",
+        "script": "./index.js",
+        "watch": true,
+        "args": ["--colors"],
+        "env": {
+            "NODE_ENV": "development",
+            "DEBUG_COLORS": true
+        }
+    }
+]
+}
