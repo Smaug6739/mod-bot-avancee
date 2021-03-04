@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://deltabot.tech"><img src="https://deltabot.tech/static/img/delta-banner.png" alt="delta" /></a>
+    <a href="https://deltabot.me"><img src="https://deltabot.tech/static/img/delta-banner.png" alt="delta" /></a>
   </p>
   <br />
   <p>
